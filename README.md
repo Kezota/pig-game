@@ -59,7 +59,7 @@ If you want to run this project locally, follow these steps:
 
 ## 👏 Credits
 
-This project was inspired by classic dice games and was built using [React.js](https://reactjs.org/) to practice frontend development skills.
+This project was built using templates and designs provided by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
 ## 🤝 Contributing
 
