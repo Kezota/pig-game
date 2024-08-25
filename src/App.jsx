@@ -8,7 +8,7 @@ export default function App() {
   const [player2Score, setPlayer2Score] = useState(0);
   const [player1Current, setPlayer1Current] = useState(0);
   const [player2Current, setPlayer2Current] = useState(0);
-  const [dice, setDice] = useState(0);
+  const [dice, setDice] = useState("");
   const winScore = 20;
 
   useEffect(function () {
@@ -56,7 +56,7 @@ export default function App() {
     setPlayer2Score(0);
     setPlayer1Current(0);
     setPlayer2Current(0);
-    setDice(0);
+    setDice("");
     setWinnerPlayer(0);
   }
 
